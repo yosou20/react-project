@@ -14,7 +14,7 @@ export default function MainNavigation() {
             <Link to="/new-meetup">New Meetup</Link>
           </li>
           <li>
-            <Link to="/favorites">My Favorites </Link>
+            <Link to="/favorites">My Favorites Meetup !! </Link>
           </li>
         </nav>
       </header>
